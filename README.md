@@ -5,12 +5,18 @@
 
 ## Necessidades do projeto
 
-1 - Mostrar a galeria de imagens em uma grid de thumbnails;
-2 - Mostre a descrição da imagem no thumbnail, ou em cima, ou em baixo;
-3 - Deixe o usuário selecionar a seção (hot, top, user);
-4 - Deixe o usuário selecionar parâmetros de window e sort;
-5 - Deixe o usuário mudar a forma que é mostrado a grid, com muitas ou poucas imagens, etc;
-6 - Uma preocupação é deixar o web app responsivo, para várias telas e zooms diferentes;
+1 - Mostrar a galeria de imagens em uma grid de thumbnails
+
+2 - Mostre a descrição da imagem no thumbnail, ou em cima, ou em baixo
+
+3 - Deixe o usuário selecionar a seção (hot, top, user)
+
+4 - Deixe o usuário selecionar parâmetros de window e sort
+
+5 - Deixe o usuário mudar a forma que é mostrado a grid, com muitas ou poucas imagens, etc
+
+6 - Uma preocupação é deixar o web app responsivo, para várias telas e zooms diferentes
+
 
 ---
 
@@ -24,9 +30,9 @@ São necessárias as seguintes tecnologias instaladas em seu ambiente local para
 ```bash
 
 # Clone este repositório
-$ git clone 
+$ git clone git@github.com:BrunoAlou/centi-teste-imgur.git
 
-$ cd 
+$ cd centi-teste-imgur
 
 $ npm install
 
