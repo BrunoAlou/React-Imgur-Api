@@ -1,0 +1,24 @@
+.ig-grid {
+	display: grid;
+	grid-gap: 10px;
+}
+.veryFew {
+	grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+}
+
+.few {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
+
+.many {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+.veryMany {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+}

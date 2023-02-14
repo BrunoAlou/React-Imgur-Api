@@ -1,0 +1,89 @@
+@import './../../../../assets/scss/base';
+
+.ig-filters {
+	.ig-content {
+		align-items: center;
+		background-color: var(--c4);
+		border-radius: 10px 10px 0 0;
+		display: flex;
+		justify-content: space-between;
+		margin: 30px 0 0;
+		padding: 10px 20px;
+
+		.ig-left {
+			align-items: center;
+			display: flex;
+
+			.ig-item {
+				margin: 0 5px;
+
+				&:last-child {
+					margin-right: 0;
+				}
+
+				.ig-helper {
+					color: var(--c3);
+				}
+
+				.ig-select-wrapper {
+					.ig-select {
+						color: var(--c2);
+						font-size: fontSize(14px);
+						padding-top: 10px;
+					}
+
+					svg {
+						color: var(--c2);
+					}
+				}
+			}
+		}
+
+		.ig-right {
+			align-items: center;
+			display: flex;
+
+			.ig-item {
+				margin: 0 5px;
+
+				&:last-child {
+					margin-right: 0;
+				}
+
+				.ig-helper {
+					color: var(--c3);
+				}
+
+				.ig-select-wrapper {
+					.ig-select {
+						color: var(--c2);
+						font-size: fontSize(14px);
+						padding-top: 10px;
+					}
+
+					svg {
+						color: var(--c2);
+					}
+				}
+			}
+		}
+	}
+
+	@media (max-width: 500px) {
+		.ig-content {
+			display: block;
+
+			.ig-left {
+				margin-bottom: 5px;
+				justify-content: center;
+			}
+
+			.ig-right {
+				justify-content: center;
+			}
+		}
+		.ig-switch{
+			display: none;
+		}
+	}
+}

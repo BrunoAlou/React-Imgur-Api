@@ -1,0 +1,50 @@
+@import './../../../../assets/scss/base';
+
+.ig-gallery-modal {
+	.ig-content-wrapper {
+		background-color: var(--c4);
+		position: relative;
+
+		img {
+			background-position: 50%;
+			background-repeat: no-repeat;
+			display: block;
+			margin: 0 auto;
+			min-height: 100px;
+			min-width: 100px;
+		}
+
+		.ig-content {
+			align-items: center;
+			background-color: var(--c4);
+			bottom: 0;
+			color: var(--c2);
+			left: 0;
+			position: sticky;
+			right: 0;
+			z-index: 1;
+
+			.ig-title-desc {
+				border-bottom: 1px solid var(--c7);
+				border-top: 1px solid var(--c7);
+				padding: 15px 10px;
+
+				h3 {
+					font-size: fontSize(16px);
+					font-weight: 400;
+					margin: 0;
+				}
+
+				p {
+					font-size: fontSize(15px);
+					margin: 14px 0 0;
+				}
+			}
+		}
+	}
+
+	// media
+	@media (max-width: 400px) {
+
+	}
+}
