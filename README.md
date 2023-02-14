@@ -56,7 +56,7 @@ Ferramentas utilizadas no projeto:
 
 ## Autor
 
-<a href="https://www.linkedin.com/in/brunoalou/">
+<a href="https://www.linkedin.com/in/brunoalou/" target=”_blank”>
  <sub><b>Bruno Alves</b></sub></a> <a href="https://www.linkedin.com/in/brunoalou/" title="LinkedIn"></a>
  <br />
  
