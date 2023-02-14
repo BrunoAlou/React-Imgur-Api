@@ -46,7 +46,7 @@ $ npm run start
 
 Ferramentas utilizadas no projeto:
 
-#### []**Front-end** ([ReactJS](https://reactjs.org/))
+#### **Front-end** ([ReactJS](https://reactjs.org/))
 
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[MaterialUi](https://styled-components.com/)**
