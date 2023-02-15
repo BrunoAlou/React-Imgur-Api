@@ -48,7 +48,6 @@ Ferramentas utilizadas no projeto:
 
 #### **Front-end** ([ReactJS](https://reactjs.org/))
 
-- **[TypeScript](https://www.typescriptlang.org/)**
 - **[MaterialUi](https://styled-components.com/)**
 - **[FontAwesome](https://fontawesome.com/)**
 
