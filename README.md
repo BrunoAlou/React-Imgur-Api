@@ -30,9 +30,9 @@ São necessárias as seguintes tecnologias instaladas em seu ambiente local para
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:BrunoAlou/centi-teste-imgur.git
+$ git clone git@github.com:BrunoAlou/React-Imgur-api.git
 
-$ cd centi-teste-imgur
+$ cd react-imgur-api
 
 $ npm install
 
