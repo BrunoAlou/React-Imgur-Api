@@ -1,5 +1,5 @@
 <h1 align="center">
-    Desafio Centi - API Imgur
+    Desafio - API Imgur
 </h1>
 
 
