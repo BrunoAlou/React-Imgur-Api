@@ -30,7 +30,7 @@ São necessárias as seguintes tecnologias instaladas em seu ambiente local para
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:BrunoAlou/React-Imgur-api.git
+$ git clone git@github.com:BrunoAlou/React-Imgur-Api.git
 
 $ cd react-imgur-api
 
